@@ -127,11 +127,14 @@ const About = () => {
   }, []);
 
   const skills = [
+    'React Native',
     'Express.js',
     'React.js',
+    'Next.js',
     'Laravel',
     'MySQL',
     'PostgreSQL',
+    'MongoDB',
     'TypeScript',
     'Tailwind',
     'Bootstrap',
@@ -140,6 +143,7 @@ const About = () => {
     'Git',
     'Docker',
     'Supabase',
+    'Firebase',
     'REST',
     'Linux',
     'WordPress',
