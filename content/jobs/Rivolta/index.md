@@ -13,7 +13,7 @@ url: 'https://rivoltatech.com/'
 - Delivered and maintained full-stack features for a real-time mentorship app
 - Integrated third-party SDKs for video calls, real-time notifications, and AI answers
 - Led mobile app rebranding and performance optimization
-- Designed a configurable rule engine for video call feature
+- Designed a configurable rule engine for the mentor selection feature
 - Managed cross-platform deployments for mobile and backend
 - Migrated and optimized backend systems for scalability
 - Resolved bugs and ensured system stability across projects
