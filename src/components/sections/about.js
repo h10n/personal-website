@@ -157,15 +157,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there! I'm Nur Hakim, hailing from Indonesia, and deeply passionate about web
-              development. Ever since my early teens, I've been immersed in the world of computer
-              science, and web development has become my true calling.
+              Hey there! I'm Nur Hakim, hailing from Indonesia, and deeply passionate about web and
+              mobile development. Ever since my early teens, I've been immersed in the world of
+              computer science, and building digital solutions has become my true calling.
             </p>
 
             <p>
-              I'm all about embracing new challenges and pushing my limits. Whether I'm working solo
-              or as part of a team, I've had the opportunity to craft multiple web applications,
-              primarily as a full-stack or front-end developer.
+              Over the past year, I've expanded my expertise beyond web development to
+              cross-platform mobile apps. I love embracing new challenges—whether I'm crafting a
+              full-stack web app, developing a mobile application, or collaborating with a team to
+              bring ideas to life.
             </p>
 
             <p>
