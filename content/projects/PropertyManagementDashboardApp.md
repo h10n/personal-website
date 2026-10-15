@@ -15,4 +15,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Developed new features, enhancements, and bug fixes. Specific tasks I have undertaken include Node.js version migration, multiple front-end and back-end revamps, and various back-end support tasks.
+Developed new features, enhancements, and bug fixes, including a Node.js version migration, multiple front-end and back-end revamps, and various back-end support tasks.

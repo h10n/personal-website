@@ -14,4 +14,4 @@ company: 'PT Rivolta Solusi Teknologi'
 showInProjects: true
 ---
 
-Led full-stack dev & Scrum for a boat rental platform; built key features (guest mode, manual ship tracking & phone verification), fixed bugs, managed Git/deployments, led Agile, and improved error logging.
+Led full-stack development and Scrum for a boat rental platform; built key features (guest mode, manual ship tracking, and phone verification), fixed bugs, managed Git and deployments, and improved error logging.

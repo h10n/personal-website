@@ -12,11 +12,26 @@ const StyledProjectsSection = styled.section`
   flex-direction: column;
   align-items: center;
 
-  h2 {
-    font-size: clamp(24px, 5vw, var(--fz-heading));
+  .projects-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px 0;
+    width: 100%;
+    margin-top: 10px;
+
+    h2 {
+      flex: 1;
+      width: auto;
+      margin: 0;
+    }
   }
 
   .archive-link {
+    position: relative;
+    bottom: 1.5px; // puts the link's baseline on the section number's baseline
+    margin-left: auto;
     font-family: var(--font-mono);
     font-size: var(--fz-sm);
     &:after {
@@ -30,7 +45,7 @@ const StyledProjectsSection = styled.section`
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 15px;
     position: relative;
-    margin-top: 50px;
+    margin-top: 60px;
 
     @media (max-width: 1080px) {
       grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -263,12 +278,16 @@ const Projects = () => {
   };
 
   return (
-    <StyledProjectsSection>
-      <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
+    <StyledProjectsSection id="projects">
+      <div className="projects-header">
+        <h2 className="numbered-heading" ref={revealTitle}>
+          Noteworthy Projects
+        </h2>
 
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
-      </Link>
+        <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
+          view the archive
+        </Link>
+      </div>
 
       <ul className="projects-grid">
         {prefersReducedMotion ? (

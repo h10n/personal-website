@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A website that displays a detailed company or business profile. With the business profile website, it will be easier for people to get information related to the business.
+A website that displays a detailed company or business profile, making it easier for people to get information about the business.

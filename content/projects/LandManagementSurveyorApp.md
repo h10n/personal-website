@@ -15,4 +15,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Enhance the existing system to accommodate a new workflow, specifically the new integration with the Licensed Surveyor Services Office.
+Enhanced the existing system to accommodate a new workflow, specifically the new integration with the Licensed Surveyor Services Office.

@@ -13,4 +13,4 @@ company: ''
 showInProjects: true
 ---
 
-An application that helps library staff handle the management process and services at the library makes it easier for library members to make transactions and search for books.
+An application that helps library staff handle the management process and services at the library, and makes it easier for library members to make transactions and search for books.

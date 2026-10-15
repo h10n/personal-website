@@ -14,4 +14,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Construct and integrate user interface elements, including various menus, and initiate the development of several key global components for the front-end web app.
+Constructed and integrated user interface elements, including various menus, and initiated the development of several key global components for the front-end web app.

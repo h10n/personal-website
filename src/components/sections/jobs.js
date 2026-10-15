@@ -162,6 +162,10 @@ const StyledTabPanel = styled.div`
     font-family: var(--font-mono);
     font-size: var(--fz-xs);
   }
+
+  .role + .role {
+    margin-top: 40px;
+  }
 `;
 
 const Jobs = () => {
@@ -187,7 +191,16 @@ const Jobs = () => {
     }
   `);
 
-  const jobsData = data.jobs.edges;
+  // Group roles by company so one tab can list several roles (e.g. intern, then engineer)
+  const companies = data.jobs.edges.reduce((groups, { node }) => {
+    const group = groups.find(g => g.company === node.frontmatter.company);
+    if (group) {
+      group.roles.push(node);
+    } else {
+      groups.push({ company: node.frontmatter.company, roles: [node] });
+    }
+    return groups;
+  }, []);
 
   const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);
@@ -248,59 +261,59 @@ const Jobs = () => {
 
       <div className="inner">
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>
-          {jobsData &&
-            jobsData.map(({ node }, i) => {
-              const { company } = node.frontmatter;
-              return (
-                <StyledTabButton
-                  key={i}
-                  isActive={activeTabId === i}
-                  onClick={() => setActiveTabId(i)}
-                  ref={el => (tabs.current[i] = el)}
-                  id={`tab-${i}`}
-                  role="tab"
-                  tabIndex={activeTabId === i ? '0' : '-1'}
-                  aria-selected={activeTabId === i ? true : false}
-                  aria-controls={`panel-${i}`}>
-                  <span>{company}</span>
-                </StyledTabButton>
-              );
-            })}
+          {companies &&
+            companies.map(({ company }, i) => (
+              <StyledTabButton
+                key={i}
+                isActive={activeTabId === i}
+                onClick={() => setActiveTabId(i)}
+                ref={el => (tabs.current[i] = el)}
+                id={`tab-${i}`}
+                role="tab"
+                tabIndex={activeTabId === i ? '0' : '-1'}
+                aria-selected={activeTabId === i ? true : false}
+                aria-controls={`panel-${i}`}>
+                <span>{company}</span>
+              </StyledTabButton>
+            ))}
           <StyledHighlight activeTabId={activeTabId} />
         </StyledTabList>
 
         <StyledTabPanels>
-          {jobsData &&
-            jobsData.map(({ node }, i) => {
-              const { frontmatter, html } = node;
-              const { title, url, company, range } = frontmatter;
+          {companies &&
+            companies.map(({ company, roles }, i) => (
+              <CSSTransition key={i} in={activeTabId === i} timeout={250} classNames="fade">
+                <StyledTabPanel
+                  id={`panel-${i}`}
+                  role="tabpanel"
+                  tabIndex={activeTabId === i ? '0' : '-1'}
+                  aria-labelledby={`tab-${i}`}
+                  aria-hidden={activeTabId !== i}
+                  hidden={activeTabId !== i}>
+                  {roles.map(({ frontmatter, html }, j) => {
+                    const { title, url, range } = frontmatter;
 
-              return (
-                <CSSTransition key={i} in={activeTabId === i} timeout={250} classNames="fade">
-                  <StyledTabPanel
-                    id={`panel-${i}`}
-                    role="tabpanel"
-                    tabIndex={activeTabId === i ? '0' : '-1'}
-                    aria-labelledby={`tab-${i}`}
-                    aria-hidden={activeTabId !== i}
-                    hidden={activeTabId !== i}>
-                    <h3>
-                      <span>{title}</span>
-                      <span className="company">
-                        &nbsp;@&nbsp;
-                        <a href={url} className="inline-link">
-                          {company}
-                        </a>
-                      </span>
-                    </h3>
+                    return (
+                      <div className="role" key={j}>
+                        <h3>
+                          <span>{title}</span>
+                          <span className="company">
+                            &nbsp;@&nbsp;
+                            <a href={url} className="inline-link">
+                              {company}
+                            </a>
+                          </span>
+                        </h3>
 
-                    <p className="range">{range}</p>
+                        <p className="range">{range}</p>
 
-                    <div dangerouslySetInnerHTML={{ __html: html }} />
-                  </StyledTabPanel>
-                </CSSTransition>
-              );
-            })}
+                        <div dangerouslySetInnerHTML={{ __html: html }} />
+                      </div>
+                    );
+                  })}
+                </StyledTabPanel>
+              </CSSTransition>
+            ))}
         </StyledTabPanels>
       </div>
     </StyledJobsSection>

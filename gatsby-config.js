@@ -2,10 +2,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Nur Hakim',
+    title: 'Nur Hakim | Software Engineer',
     description:
-      'Nur Hakim is an Indonesia based web developer with a goal-driven creative mindset and passion for learning and innovating.',
-    siteUrl: 'https://nurhakim.xyz', // No trailing slash allowed!
+      'Nur Hakim is an Indonesia-based software engineer focused on system design, working across backend, web, and mobile.',
+    siteUrl: 'https://www.kimhakim.my.id', // No trailing slash allowed!
     image: '/og3.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
@@ -42,13 +42,6 @@ module.exports = {
       options: {
         name: 'content',
         path: `${__dirname}/content/`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `posts`,
-        path: `${__dirname}/content/posts`,
       },
     },
     {

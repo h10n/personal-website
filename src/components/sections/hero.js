@@ -60,12 +60,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Nur Hakim.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I design and build software systems.</h3>;
   const four = (
     <>
       <p>
-        I'm an Indonesia-based web developer with a goal-driven creative mindset and a passion for
-        learning and innovating.
+        I'm an Indonesia-based software engineer, in the industry since 2019. I work across backend,
+        web, and mobile, with a focus on how the pieces fit together and the trade-offs behind them.
       </p>
     </>
   );

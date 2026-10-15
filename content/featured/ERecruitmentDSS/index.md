@@ -10,4 +10,4 @@ tech:
   - MySQL
 ---
 
-A system that can provide a reference for making decisions on hiring new employees using the MOORA method based on predetermined alternatives, criteria, and subcriteria. After the decision is obtained, the results of the ranking and calculation of employee acceptance obtained from the system can be displayed in detail and in accordance with the results of manual calculations performed.
+A system that provides a reference for hiring decisions using the MOORA method, based on predetermined alternatives, criteria, and subcriteria. The ranking and calculation results are displayed in detail and match manual calculations.

@@ -13,4 +13,4 @@ company: ''
 showInProjects: true
 ---
 
-A system that can provide a reference for making decisions on hiring new employees using the MOORA method based on predetermined alternatives, criteria, and subcriteria.
+A system that provides a reference for hiring decisions using the MOORA method, based on predetermined alternatives, criteria, and subcriteria.

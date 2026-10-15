@@ -126,27 +126,27 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
+  // Ordered by group: languages, backend, frontend, mobile/desktop, data, tools
   const skills = [
-    'React Native',
+    'TypeScript',
+    'Go',
+    'Node.js',
     'Express.js',
+    'Laravel',
     'React.js',
     'Next.js',
-    'Laravel',
-    'MySQL',
-    'PostgreSQL',
-    'MongoDB',
-    'TypeScript',
-    'Tailwind',
-    'Bootstrap',
-    'jQuery',
     'Vue.js',
-    'Git',
-    'Docker',
+    'Tailwind CSS',
+    'React Native',
+    'Electron',
+    'PostgreSQL',
+    'MySQL',
+    'MongoDB',
     'Supabase',
     'Firebase',
-    'REST',
+    'Docker',
+    'Git',
     'Linux',
-    'WordPress',
   ];
 
   return (
@@ -157,22 +157,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there! I'm Nur Hakim, hailing from Indonesia, and deeply passionate about web and
-              mobile development. Ever since my early teens, I've been immersed in the world of
-              computer science, and building digital solutions has become my true calling.
+              I'm a software engineer based in Indonesia with experience building web and
+              cross-platform mobile applications.
             </p>
 
             <p>
-              Over the past year, I've expanded my expertise beyond web development to
-              cross-platform mobile apps. I love embracing new challenges—whether I'm crafting a
-              full-stack web app, developing a mobile application, or collaborating with a team to
-              bring ideas to life.
+              My work spans the stack, from backend services and API design to user-facing
+              applications. Beyond implementation, I care about how software systems are designed,
+              how technical decisions affect maintainability and reliability, and how to balance
+              trade-offs to solve real-world problems.
             </p>
 
             <p>
-              Thanks for visiting my website. Here are the top technologies I've been experienced
-              with:
+              I want to build software that people can rely on, much like roads they use every day
+              without thinking about who built or maintains them. If something I build genuinely
+              makes life better for a lot of people, that in itself would be meaningful to me.
             </p>
+
+            <p>Here are some of the technologies I've worked with:</p>
           </div>
 
           <ul className="skills-list">

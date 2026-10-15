@@ -15,4 +15,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Enhanced the capabilities of the itinerary feature to efficiently manage itineraries by area. Furthermore, I performed various enhancements and bug fixes on integrated apps, ensuring optimal performance.
+Enhanced the capabilities of the itinerary feature to efficiently manage itineraries by area, and performed various enhancements and bug fixes on integrated apps.

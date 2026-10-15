@@ -7,16 +7,11 @@ range: 'May 2024 - Present'
 url: 'https://rivoltatech.com/'
 ---
 
-- Led development of a boat rental marketplace platform (frontend & backend)
-- Oversaw Git workflows and managed deployments across environments
-- Acted as Scrum Manager, handling Agile processes and Scrum boards
-- Delivered and maintained full-stack features for a real-time mentorship app
-- Integrated third-party SDKs for video calls, real-time notifications, and AI answers
-- Led mobile app rebranding and performance optimization
-- Designed a configurable rule engine for the mentor selection feature
-- Managed cross-platform deployments for mobile and backend
-- Migrated and optimized backend systems for scalability
-- Resolved bugs and ensured system stability across projects
-- Supported maintenance tasks and deployments for an SME app
+- Worked across 7 projects spanning backend APIs, admin dashboards, and mobile apps
 - Initiated new projects, setting up Git, Scrum boards, and architecture
-- Conducted technical interviews and mentored interns
+- Led full-stack development as Tech Lead (team of 3-5) and Scrum Master, managing UAT, Git workflows, and deployments across mobile and backend
+- Designed a configurable rule engine for the mentor selection feature
+- Integrated third-party SDKs for video calls, real-time notifications, and AI answers
+- Improved app performance and backend scalability
+- Resolved bugs and ensured system stability across projects
+- Conducted technical interviews in English for 7 international candidates, and mentored interns

@@ -15,4 +15,4 @@ company: 'PT Rivolta Solusi Teknologi'
 showInProjects: true
 ---
 
-Built real-time Q&A platform as Full-Stack Dev; integrated video/notification SDKs, added AI answers, improved UX, handled VOIP, backend infra, data migration, and analytics across all platforms.
+Built a real-time Q&A platform as a full-stack developer; integrated video and notification SDKs, added AI answers, improved UX, and handled VOIP, backend infrastructure, data migration, and analytics across all platforms. The platform was tested by 250+ users.
