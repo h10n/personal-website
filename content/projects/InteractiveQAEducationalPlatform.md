@@ -8,6 +8,7 @@ android: ''
 tech:
   - React Native
   - Next.js
+  - TypeScript
   - Express.js
   - MongoDB
   - Firebase

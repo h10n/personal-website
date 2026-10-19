@@ -9,6 +9,7 @@ tech:
   - LiveKit
   - SDK Design
   - React.js
+  - TypeScript
   - Express.js
   - PostgreSQL
 company: 'PT Rivolta Solusi Teknologi'

@@ -7,7 +7,7 @@ range: 'August 2019 - June 2021'
 url: 'https://barqun.com/'
 ---
 
-- Built web-based applications and RESTful web services for 4+ client and internal projects, primarily in charge of the backend
+- Built web-based applications and RESTful web services for 4+ client and internal projects
 - Conducted analysis and design of database structures, including ERD
 - Worked with a variety of languages, frameworks, and content management systems such as JavaScript, PHP, Vue.js, Laravel, and WordPress
 - Carried out testing and maintenance on existing applications

@@ -9,9 +9,10 @@ url: 'https://rivoltatech.com/'
 
 - Worked across 7 projects spanning backend APIs, admin dashboards, and mobile apps
 - Initiated new projects, setting up Git, Scrum boards, and architecture
-- Led full-stack development as Tech Lead (team of 3-5) and Scrum Master, managing UAT, Git workflows, and deployments across mobile and backend
-- Designed a configurable rule engine for the mentor selection feature
-- Integrated third-party SDKs for video calls, real-time notifications, and AI answers
+- Led the mentorship app's rebrand as Tech Lead (team of 3-5), managing UAT for mobile and backend
+- Led full-stack development of a boat rental marketplace and served as its Scrum Master, managing Git workflows and deployments
+- Built a dynamic rule engine for mentor selection
+- Integrated third-party SDKs for video calls and real-time notifications, and implemented AI-generated answers
 - Improved app performance and backend scalability
 - Resolved bugs and ensured system stability across projects
-- Conducted technical interviews in English for 7 international candidates, and mentored interns
+- Conducted technical interviews in English for 7 international candidates and mentored interns

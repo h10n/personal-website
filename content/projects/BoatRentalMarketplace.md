@@ -7,6 +7,7 @@ ios: ''
 android: ''
 tech:
   - React Native
+  - TypeScript
   - Express.js
   - MongoDB
   - Firebase
