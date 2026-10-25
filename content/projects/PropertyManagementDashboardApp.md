@@ -15,4 +15,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Developed new features, enhancements, and bug fixes, including a Node.js version migration, multiple front-end and back-end revamps, and various back-end support tasks.
+Developed new features, enhancements, and bug fixes, including a Node.js 14 to 16 dependency upgrade, multiple front-end and back-end revamps, and various back-end support tasks.

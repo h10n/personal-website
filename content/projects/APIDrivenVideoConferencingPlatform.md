@@ -16,4 +16,4 @@ company: 'PT Rivolta Solusi Teknologi'
 showInProjects: true
 ---
 
-Architected a provider-agnostic video layer and built both the server-side and React SDKs (token generation, participant management, and the full client session flow) for a multi-tenant, embeddable video conferencing platform designed to be delivered as an API and SDKs.
+Architected a provider-agnostic video layer and built both the server-side and React SDKs (token generation, participant management, and the full client session flow) for a multi-tenant, embeddable video conferencing platform delivered as an API and SDKs.

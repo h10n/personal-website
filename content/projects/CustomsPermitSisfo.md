@@ -13,4 +13,4 @@ company: 'PT Barqun Digital Teknologi'
 showInProjects: true
 ---
 
-Built a RESTful web service for a web-based application to monitor and apply for export permit services.
+Built the RESTful API and full-stack features for an export permit app — covering permit application submission, multi-level officer approvals with digital signatures, inspection scheduling, and automated PDF permit generation.

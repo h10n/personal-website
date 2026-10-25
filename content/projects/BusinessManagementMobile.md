@@ -14,4 +14,4 @@ company: 'PT Rivolta Solusi Teknologi'
 showInProjects: true
 ---
 
-Handled short-term maintenance for an SME operations app; resolved bugs, ensured system stability, and managed backend and Android deployments to UAT and production.
+Maintained an SME operations app across two periods (2024 and 2025); resolved 120+ bugs, improved department management, and managed backend and Android deployments to UAT and production.
