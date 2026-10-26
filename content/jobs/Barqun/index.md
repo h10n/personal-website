@@ -11,4 +11,4 @@ url: 'https://barqun.com/'
 - Designed database schemas and migrations, including a 70+ table schema for a public health center information system
 - Worked with JavaScript, PHP, Vue.js, Laravel, and MySQL
 - Maintained existing applications, fixing production bugs and adding new features
-- Collaborated with developers and project leads through pull-request reviews, integrating 95+ pull requests
+- Delivered features through a pull-request-based Git workflow, with 95+ merged pull requests

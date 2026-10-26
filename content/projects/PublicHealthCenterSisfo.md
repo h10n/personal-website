@@ -11,4 +11,4 @@ company: 'PT Barqun Digital Teknologi'
 showInProjects: true
 ---
 
-Multi-user information system for public health center operations, covering patient registration and queueing, clinical examinations and nursing care, laboratory, pharmacy with batch and expiry tracking, billing, and PDF and Excel reporting. Built with Laravel 5.7, Bootstrap 4, and MySQL.
+Built the application logic and 70+ table database schema of a multi-user public health center system from the ground up — covering patient registration and queueing, clinical examinations and nursing care, laboratory, pharmacy with batch and expiry tracking, billing, and PDF and Excel reporting — and extended its role-based permissions.

@@ -13,4 +13,4 @@ company: 'PT Barqun Digital Teknologi'
 showInProjects: true
 ---
 
-Built the RESTful API and full-stack features for an export permit app — covering permit application submission, multi-level officer approvals with digital signatures, inspection scheduling, and automated PDF permit generation.
+Built the RESTful API and supporting frontend features for an export permit app — covering permit application submission, multi-level officer approvals with digital signatures, inspection scheduling, and automated PDF permit generation.

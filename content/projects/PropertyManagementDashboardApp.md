@@ -10,9 +10,10 @@ tech:
   - Express.js
   - Knex.js
   - PostgreSQL
+  - MySQL
   - Redux.js
 company: 'Refactory'
 showInProjects: true
 ---
 
-Developed new features, enhancements, and bug fixes, including a Node.js 14 to 16 dependency upgrade, multiple front-end and back-end revamps, and various back-end support tasks.
+Extended the in-app notification system, report designer, and dashboard-wide filtering for a shopping mall analytics dashboard — alongside multiple front-end and back-end revamps, backend service migrations for a MySQL-to-PostgreSQL database transition, and a Node.js 14 to 16 dependency upgrade.

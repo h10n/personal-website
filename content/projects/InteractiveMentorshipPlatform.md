@@ -15,4 +15,4 @@ company: 'PT Rivolta Solusi Teknologi'
 showInProjects: true
 ---
 
-Led the Q&A platform's rebranding and revamp into a mentorship app as Tech Lead; improved call features, mentor rules, app identity, flows, and backend scalability; managed UAT for mobile and backend.
+Led the Q&A platform's rebranding and revamp into a mentorship app as Tech Lead; built a dynamic rule engine for mentor selection, improved call features, app identity, user flows, and backend scalability, and managed UAT for mobile and backend.

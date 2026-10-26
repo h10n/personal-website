@@ -13,4 +13,4 @@ company: 'PT Barqun Digital Teknologi'
 showInProjects: true
 ---
 
-Built the RESTful web service and full-stack features for a business and hospital correspondence archiving app — managing incoming and outgoing letters, multi-tier approval and disposition workflows, automated PDF generation, and archive search and reporting.
+Built the RESTful web service for a hospital business correspondence archiving app — managing incoming and outgoing letters, multi-tier approval and disposition workflows, automated PDF generation, and archive search and reporting.
