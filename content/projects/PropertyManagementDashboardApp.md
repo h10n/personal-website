@@ -1,6 +1,6 @@
 ---
 date: '2023-12-01'
-title: 'Shopping Mall Management App'
+title: 'Shopping Mall Dashboard App'
 github: ''
 external: 'https://refactory.id'
 ios: ''
@@ -16,4 +16,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Extended the in-app notification system, report designer, and dashboard-wide filtering for a shopping mall analytics dashboard — alongside multiple front-end and back-end revamps, backend service migrations for a MySQL-to-PostgreSQL database transition, and a Node.js 14 to 16 dependency upgrade.
+Extended the in-app notification system, report designer, and dashboard-wide filtering for a shopping mall analytics dashboard app, migrated backend services from MySQL to PostgreSQL, revamped frontend and backend views, and upgraded dependencies from Node.js 14 to 16.

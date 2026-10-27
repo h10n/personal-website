@@ -1,11 +1,11 @@
 # Nur Hakim
 
 Software Engineer · Indonesia · Open to remote
-nur10hkm@gmail.com · https://www.kimhakim.my.id · https://linkedin.com/in/h10n · https://github.com/h10n
+nur10hkm@gmail.com · [kimhakim.my.id](https://www.kimhakim.my.id) · [linkedin.com/in/h10n](https://linkedin.com/in/h10n) · [github.com/h10n](https://github.com/h10n)
 
 ## Summary
 
-Software engineer with 5+ years of professional experience since 2019. Focused on system design and the trade-offs behind technical decisions. Experienced across backend services, API design, and web and mobile apps, mainly in TypeScript, JavaScript, and PHP.
+Software engineer with 5+ years of experience building backend services, APIs, and web and mobile applications, mainly in TypeScript, JavaScript, and PHP. Focused on system design, with experience across a range of business domains, including healthcare, retail, and marketplaces.
 
 ## Work Experience
 
@@ -13,32 +13,34 @@ Software engineer with 5+ years of professional experience since 2019. Focused o
 
 Samarinda, Kalimantan Timur · May 2024 - Present
 
-- Built the server-side offline-sync core (offline sales processing, stock reservation, reconciliation) and the purchase-order, supplier-return, and inventory modules for a retail POS & ERP platform used across 5 store floors and 7+ terminals (Go, TypeScript, React, Electron, PostgreSQL)
-- Developed a real-time Q&A platform connecting learners and mentors: integrated video-call and notification SDKs, implemented AI-generated answers, and migrated file storage to Firebase Storage; tested by 250+ users (React Native, Next.js, TypeScript, Express.js, MongoDB, Firebase)
-- Led the Q&A platform's rebrand into a mentorship app as Tech Lead (team of 3-5): built a dynamic rule engine for mentor selection, refactored backend logic for scalability, and managed UAT (React Native, TypeScript, Express.js, MongoDB, Firebase)
-- Developed milestone-based shipment tracking across backend, admin dashboard, and mobile app, plus role-based analytics dashboards, for a multi-tenant grocery delivery marketplace (Go, React Native, TypeScript, PostgreSQL, Firebase)
-- Led full-stack development of a boat rental marketplace, handling code reviews and deployments, and served as the team's Scrum Master (React Native, TypeScript, Express.js, MongoDB, Firebase)
-- Architected a provider-agnostic video layer and built server-side and React client SDKs for a multi-tenant, embeddable video conferencing platform delivered as an API and SDKs (LiveKit, TypeScript, Express.js, PostgreSQL)
-- Bootstrapped new web, mobile, and backend projects — setting up project architectures, auth and routing foundations, linters and Git hooks, branching workflows, and Scrum boards
+- Built the server-side offline-sync core (offline sales processing, stock reservation, and reconciliation for queued sales) for a retail POS & ERP platform used across 5 store floors and 7+ terminals (Go, PostgreSQL)
+- Implemented full-stack purchase-order, supplier-return, and inventory modules across the Go API and React back office (Go, TypeScript, React, PostgreSQL)
+- Built ESC/POS receipt printing for the Electron cashier terminal, plus the Windows scripts, installer integration, and setup guides to deploy it on store PCs (Electron, React, TypeScript)
+- Developed a real-time Q&A platform (tested by 250+ users), integrated video-call and notification SDKs, implemented AI-generated answers, and migrated file storage to Firebase Storage (React Native, Next.js, TypeScript, Express.js, MongoDB, Firebase)
+- Led a team of 3-5 as Tech Lead on the Q&A platform's rebrand into a mentorship app, built a dynamic rule engine for mentor selection, refactored backend APIs, and directed UAT (React Native, TypeScript, Express.js, MongoDB, Firebase)
+- Built milestone-based shipment tracking and role-based analytics dashboards across backend, admin web, and mobile for a multi-tenant grocery delivery marketplace (Go, React Native, TypeScript, PostgreSQL, Firebase)
+- Led full-stack development and served as Scrum Master for a boat rental marketplace, managing code reviews, Git workflows, and deployments (React Native, TypeScript, Express.js, MongoDB, Firebase)
+- Architected a provider-agnostic video layer and built server-side and React client SDKs for a multi-tenant, embeddable video conferencing platform (LiveKit, TypeScript, Express.js, PostgreSQL)
+- Bootstrapped new web, mobile, and backend projects, establishing core architecture, auth and routing foundations, Git workflows, and Scrum boards
 - Conducted technical interviews in English for 7 international candidates and mentored interns
 
 ### Software Engineer, Refactory
 
 Sleman, Yogyakarta · September 2022 - December 2023
 
-- Extended the notification system, report designer, and dashboard-wide filtering of a shopping mall analytics dashboard with real-time occupancy views, working in a client's English-speaking multinational team (React, Redux, Express.js, Knex.js, PostgreSQL, MySQL)
-- Carried out multiple frontend and backend revamps, migrated backend services and queries for a MySQL-to-PostgreSQL database and schema migration, and made the dashboard run on Node.js 16 (from 14) by analyzing and upgrading affected dependencies
-- Built frontend and full-stack features for client web applications across FMCG sales, enterprise, and government domains in Scrum (TypeScript, JavaScript, PHP, Vue.js, React, Laravel, Tailwind CSS, MySQL)
-- Ran weekly online pre-course sessions and an offline workshop as an instructor
-- Joined via the 3-month Intensive Pairing Program (Batch 11) and was converted to full-time Software Engineer
+- Extended in-app notifications, the report designer, and dashboard-wide filtering for a shopping mall analytics dashboard app with real-time occupancy views, collaborating with the client's multinational team (React, Redux, Express.js, Knex.js, PostgreSQL, MySQL)
+- Migrated backend services and queries from MySQL to PostgreSQL, revamped frontend and backend views, and upgraded dependencies to support Node.js 16
+- Built frontend and backend features for enterprise and government client applications in Scrum teams (TypeScript, JavaScript, PHP, Vue.js, React, Laravel, Tailwind CSS, MySQL)
+- Ran weekly online pre-course sessions and an in-person workshop as an instructor
+- Promoted to full-time Software Engineer after completing the 3-month Intensive Pairing Program (Batch 11)
 
 ### Web Programmer (Full-Stack Developer), PT Barqun Digital Teknologi
 
 Samarinda, Kalimantan Timur · August 2019 - June 2021
 
-- Built the application logic and 70+ table database schema of a multi-user public health center information system from the ground up, covering patient registration and queueing, clinical care, laboratory, pharmacy, and billing (Laravel, PHP, MySQL)
+- Built the application logic and 70+ table database schema for a multi-user public health center information system, covering patient registration and queueing, clinical care, laboratory, pharmacy, and billing (Laravel, PHP, MySQL)
 - Created PDF and Excel reporting across clinical and administrative modules, and extended the system with role-based permissions and batch and expiry tracking for pharmacy stock
-- Revamped the system into a private medical clinic application, adapting clinical and cashier workflows and building corporate medical check-up (MCU) packages, onsite screening, and QR-based lab result delivery
+- Revamped the system into a private medical clinic application, adapted clinical and cashier workflows, and built corporate medical check-up (MCU) packages, onsite screening, patient photo capture via webcam, and QR-based lab results
 - Developed RESTful web services for customs export-permit and hospital correspondence systems (Laravel, PHP, MySQL)
 
 ## Skills
@@ -56,4 +58,4 @@ STMIK Widya Cipta Dharma, Samarinda, Kalimantan Timur · Graduated February 2022
 
 ## Languages
 
-Indonesian (Native), English (Intermediate)
+Indonesian (Native), English (Professional Working Proficiency)

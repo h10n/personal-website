@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Software engineer based in Indonesia with 5+ years of professional experience building
-        backend services, web applications, and cross-platform mobile apps.
+        I'm a software engineer based in Indonesia with 5+ years of experience building backend
+        services, web applications, and cross-platform mobile apps.
       </p>
     </>
   );

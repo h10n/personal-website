@@ -1,6 +1,6 @@
 ---
 date: '2023-07-01'
-title: 'Sales Monitoring Management App'
+title: 'Sales Monitoring App'
 github: ''
 external: 'https://refactory.id'
 ios: ''
@@ -15,4 +15,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Enhanced the capabilities of the itinerary feature to efficiently manage itineraries by area, and performed various enhancements and bug fixes on integrated apps.
+Enhanced the itinerary feature to manage itineraries by area, and delivered improvements and bug fixes for integrated apps.

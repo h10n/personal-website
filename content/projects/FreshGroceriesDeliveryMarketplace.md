@@ -15,4 +15,4 @@ company: 'PT Rivolta Solusi Teknologi'
 showInProjects: true
 ---
 
-Built milestone-based shipment tracking across backend, admin dashboard, and mobile app, plus role-based analytics dashboards, for a multi-tenant fresh-groceries delivery marketplace.
+Built milestone-based shipment tracking and role-based analytics dashboards across backend, admin dashboard, and mobile app for a multi-tenant fresh-groceries delivery marketplace.

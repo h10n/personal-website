@@ -1,6 +1,6 @@
 ---
 date: '2023-01-01'
-title: 'Delivery Logistics Management App'
+title: 'Delivery Logistics Dashboard'
 github: ''
 external: 'https://refactory.id'
 ios: ''

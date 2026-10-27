@@ -1,6 +1,6 @@
 ---
 date: '2024-06-20'
-title: 'Interactive Q&A Educational Platform'
+title: 'Real-Time Q&A Learning Platform'
 github: ''
 external: 'https://rivoltatech.com/'
 ios: ''
@@ -16,4 +16,4 @@ company: 'PT Rivolta Solusi Teknologi'
 showInProjects: true
 ---
 
-Built a real-time Q&A platform as a full-stack developer; integrated video and notification SDKs, added AI answers, improved UX, and handled VOIP, backend infrastructure, data migration, and analytics across all platforms. The platform was tested by 250+ users.
+Built a real-time Q&A platform as a full-stack developer, integrated video-call and notification SDKs, added AI-generated answers, and migrated file storage to Firebase Storage. The platform was tested by 250+ users.

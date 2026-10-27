@@ -1,8 +1,8 @@
 ---
 date: '2019-09-01'
-title: 'Web Programmer'
+title: 'Web Programmer (Full-Stack Developer)'
 company: 'PT Barqun Digital Teknologi'
-location: 'Samarinda, Kaltim'
+location: 'Samarinda, Kalimantan Timur'
 range: 'August 2019 - June 2021'
 url: 'https://barqun.com/'
 ---

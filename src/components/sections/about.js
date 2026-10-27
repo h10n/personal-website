@@ -159,7 +159,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Since 2019, I've worked across software agencies and product teams — from designing
+              Since 2019, I've worked across software agencies and product teams, from designing
               database schemas and RESTful APIs to leading full-stack web and mobile projects,
               mainly in TypeScript, JavaScript, and PHP.
             </p>
