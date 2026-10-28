@@ -1,6 +1,6 @@
 ---
 date: '2023-12-01'
-title: 'Shopping Mall Management App'
+title: 'Shopping Mall Dashboard App'
 github: ''
 external: 'https://refactory.id'
 ios: ''
@@ -10,9 +10,10 @@ tech:
   - Express.js
   - Knex.js
   - PostgreSQL
+  - MySQL
   - Redux.js
 company: 'Refactory'
 showInProjects: true
 ---
 
-Developed new features, enhancements, and bug fixes, including a Node.js version migration, multiple front-end and back-end revamps, and various back-end support tasks.
+Extended the in-app notification system, report designer, and dashboard-wide filtering for a shopping mall analytics dashboard app, migrated backend services from MySQL to PostgreSQL, revamped frontend and backend views, and upgraded dependencies from Node.js 14 to 16.

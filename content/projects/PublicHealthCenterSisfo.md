@@ -1,5 +1,5 @@
 ---
-date: '2019-09-01'
+date: '2019-09-25'
 title: 'Public Health Center Management App'
 github: ''
 external: 'https://barqun.com'
@@ -11,4 +11,4 @@ company: 'PT Barqun Digital Teknologi'
 showInProjects: true
 ---
 
-An integrated and multi-user designed information system that is prepared to handle the entire management process and services at the public health center.
+Built the application logic and 70+ table database schema for a multi-user public health center management system (patient registration and queueing, clinical examinations and nursing care, laboratory, pharmacy with batch and expiry tracking, billing, and PDF and Excel reporting) and extended its role-based permissions. Built with Laravel 5.7, Bootstrap 4, and MySQL.

@@ -15,4 +15,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Implemented a new feature within the Groupware System to digitize and enhance the approval processes for vendor and customer master data.
+Implemented additional approval workflows for vendor and customer master data in an existing groupware system.

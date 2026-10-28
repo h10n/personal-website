@@ -11,4 +11,4 @@ company: 'PT Barqun Digital Teknologi'
 showInProjects: true
 ---
 
-An integrated and multi-user designed information system that is prepared to handle the entire management process and services at the medical clinic, especially focused on medical check-up services.
+Revamped the health center system into a private medical clinic app, adapted clinical and cashier workflows, added patient photo capture via webcam, and built corporate Medical Check-Up (MCU) packages, onsite screening, and QR-based lab results.

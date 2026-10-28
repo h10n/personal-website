@@ -1,12 +1,13 @@
 ---
 date: '2024-05-08'
-title: 'Boat Rental Marketplace App'
+title: 'Boat Rental Marketplace'
 github: ''
 external: 'https://shiphire.id/'
 ios: ''
 android: ''
 tech:
   - React Native
+  - TypeScript
   - Express.js
   - MongoDB
   - Firebase
@@ -14,4 +15,4 @@ company: 'PT Rivolta Solusi Teknologi'
 showInProjects: true
 ---
 
-Led full-stack development and Scrum for a boat rental platform; built key features (guest mode, manual ship tracking, and phone verification), fixed bugs, managed Git and deployments, and improved error logging.
+Led full-stack development and Scrum for a boat rental platform, built manual ship tracking and phone verification, fixed bugs, managed Git and deployments across its web, mobile, and backend repositories, and improved error logging.

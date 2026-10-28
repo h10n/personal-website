@@ -15,4 +15,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Enhanced the existing system to accommodate a new workflow, specifically the new integration with the Licensed Surveyor Services Office.
+Enhanced an existing administrative system for the Licensed Surveyor Services Office workflow, built survey scheduling, billing, and assignment-history pages, implemented two-stage application validation, updated mobile assignment APIs, and integrated the office's application flow and payment-proof upload into the public portal.

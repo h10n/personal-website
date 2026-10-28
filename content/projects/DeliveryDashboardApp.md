@@ -1,6 +1,6 @@
 ---
 date: '2023-01-01'
-title: 'Delivery Logistics Management App'
+title: 'Delivery Logistics Dashboard'
 github: ''
 external: 'https://refactory.id'
 ios: ''
@@ -14,4 +14,4 @@ company: 'Refactory'
 showInProjects: true
 ---
 
-Constructed and integrated user interface elements, including various menus, and initiated the development of several key global components for the front-end web app.
+Built and integrated menus, detail pages, and forms for truck, city, and cargo workflows, initiated several key global components (base table, breadcrumbs, buttons, inputs), connected pages to backend endpoints, and handled follow-up bug fixes for the front-end web app.

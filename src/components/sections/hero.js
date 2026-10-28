@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm an Indonesia-based software engineer, in the industry since 2019. I work across backend,
-        web, and mobile, with a focus on how the pieces fit together and the trade-offs behind them.
+        I'm a software engineer based in Indonesia with 5+ years of experience building backend
+        services, web applications, and cross-platform mobile apps.
       </p>
     </>
   );

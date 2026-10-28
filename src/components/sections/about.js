@@ -129,6 +129,8 @@ const About = () => {
   // Ordered by group: languages, backend, frontend, mobile/desktop, data, tools
   const skills = [
     'TypeScript',
+    'JavaScript',
+    'PHP',
     'Go',
     'Node.js',
     'Express.js',
@@ -142,8 +144,8 @@ const About = () => {
     'PostgreSQL',
     'MySQL',
     'MongoDB',
-    'Supabase',
     'Firebase',
+    'Supabase',
     'Docker',
     'Git',
     'Linux',
@@ -157,15 +159,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a software engineer based in Indonesia with experience building web and
-              cross-platform mobile applications.
+              Since 2019, I've worked across software agencies and product teams, from designing
+              database schemas and RESTful APIs to leading full-stack web and mobile projects,
+              mainly in TypeScript, JavaScript, and PHP.
             </p>
 
             <p>
-              My work spans the stack, from backend services and API design to user-facing
-              applications. Beyond implementation, I care about how software systems are designed,
-              how technical decisions affect maintainability and reliability, and how to balance
-              trade-offs to solve real-world problems.
+              Beyond implementation, I care about how software systems are designed, how technical
+              decisions affect maintainability and reliability, and how to balance trade-offs to
+              solve real-world problems.
             </p>
 
             <p>

@@ -1,6 +1,6 @@
 ---
 date: '2020-02-01'
-title: 'Customs Permit Management App'
+title: 'Customs Export Permit App'
 github: ''
 external: 'https://barqun.com'
 tech:
@@ -13,4 +13,4 @@ company: 'PT Barqun Digital Teknologi'
 showInProjects: true
 ---
 
-Built a RESTful web service for a web-based application to monitor and apply for export permit services.
+Built the RESTful API and supporting frontend features for an export permit app, covering application submission, multi-level approvals with digital signatures, inspection scheduling, and automated PDF permit generation.
