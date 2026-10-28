@@ -5,7 +5,7 @@ nur10hkm@gmail.com · [kimhakim.my.id](https://www.kimhakim.my.id) · [linkedin.
 
 ## Summary
 
-Software engineer with 5+ years of experience building backend services, APIs, and web and mobile applications, mainly in TypeScript, JavaScript, and PHP. Focused on system design, with experience across a range of business domains, including healthcare, retail, and marketplaces.
+Software engineer with 5+ years of experience building backend services, RESTful APIs, and web and mobile applications, mainly in TypeScript, JavaScript, and PHP. 16+ projects across healthcare, retail, marketplaces, logistics, and government. Focused on system design: how the pieces fit together, and the trade-offs behind them.
 
 ## Work Experience
 
@@ -58,4 +58,4 @@ STMIK Widya Cipta Dharma, Samarinda, Kalimantan Timur · Graduated February 2022
 
 ## Languages
 
-Indonesian (Native), English (Professional Working Proficiency)
+Indonesian (Native), English (Intermediate)
