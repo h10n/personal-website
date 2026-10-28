@@ -26,13 +26,18 @@ Samarinda, Kalimantan Timur · May 2024 - Present
 
 ### Software Engineer, Refactory
 
-Sleman, Yogyakarta · September 2022 - December 2023
+Sleman, Yogyakarta · December 2022 - December 2023
 
 - Extended in-app notifications, the report designer, and dashboard-wide filtering for a shopping mall analytics dashboard app with real-time occupancy views, collaborating with the client's multinational team (React, Redux, Express.js, Knex.js, PostgreSQL, MySQL)
 - Migrated backend services and queries from MySQL to PostgreSQL, revamped frontend and backend views, and upgraded dependencies to support Node.js 16
 - Built frontend and backend features for enterprise and government client applications in Scrum teams (TypeScript, JavaScript, PHP, Vue.js, React, Laravel, Tailwind CSS, MySQL)
 - Ran weekly online pre-course sessions and an in-person workshop as an instructor
-- Promoted to full-time Software Engineer after completing the 3-month Intensive Pairing Program (Batch 11)
+
+### Engineer Intern, Refactory
+
+Sleman, Yogyakarta · September 2022 - November 2022
+
+- Completed the 3-month Intensive Pairing Program (Batch 11), then promoted to full-time Software Engineer
 
 ### Web Programmer (Full-Stack Developer), PT Barqun Digital Teknologi
 
